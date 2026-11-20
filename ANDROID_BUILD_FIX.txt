@@ -1,0 +1,1 @@
+Android resources updated: launcher icons are provided under mipmap-mdpi/hdpi/xhdpi/xxhdpi/xxxhdpi, and AndroidManifest references @mipmap/ic_launcher. Flutter SDK was not available here, so run `flutter pub get` and `flutter build apk --debug` on your machine to verify.
