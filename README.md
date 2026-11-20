@@ -10,6 +10,14 @@ Blue/white Stitch-inspired Flutter app for tracking purchase warranties and rece
 - SQLite schema migration from version 1 to 2 that adds fields without dropping existing purchase data.
 - Android launcher icon resources and biometric permissions/activity configuration.
 
+## Screenshots
+<img width="1896" height="872" alt="Screenshot 2026-11-20 140848" src="https://github.com/user-attachments/assets/2c51306e-7a0f-4651-a2b9-a1d356d07900" />
+<img width="1907" height="897" alt="Screenshot 2026-11-20 140831" src="https://github.com/user-attachments/assets/0a9124f3-9502-4000-95c2-dd2fe069c7b2" />
+<img width="1901" height="890" alt="Screenshot 2026-11-20 140807" src="https://github.com/user-attachments/assets/d02b15a2-42e6-4b9f-996d-4157be7124aa" />
+<img width="1902" height="857" alt="Screenshot 2026-11-20 140921" src="https://github.com/user-attachments/assets/8b42bf96-ed33-412e-9f1d-95e7533889f4" />
+<img width="1908" height="877" alt="Screenshot 2026-11-20 140908" src="https://github.com/user-attachments/assets/2e7b17ff-aab2-4a25-83f4-5f0e5965623e" />
+
+
 ## Run on Windows
 1. Extract the ZIP.
 2. Open `warrantyvault_flutter_starter` in Android Studio.
